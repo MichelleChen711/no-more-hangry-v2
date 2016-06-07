@@ -1,0 +1,3 @@
+Localhost:
+mongod
+node bin/www
